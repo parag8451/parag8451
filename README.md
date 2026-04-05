@@ -259,7 +259,7 @@ const parag = {
   │  🤖  Advanced multi-modal AI systems with real-time voice    │
   │  🏗️  Scalable full-stack SaaS platforms with Next.js 14      │
   │  🔬  Fine-tuning LLMs for domain-specific applications       │
-  │  ⚙️   Exploring RISC-V architecture and advanced FPGA design  │
+  │  ⚙️  Exploring RISC-V architecture and advanced FPGA design   │
   │  📦  Contributing to open-source AI tooling ecosystem        │
   └──────────────────────────────────────────────────────────────┘
 ```
